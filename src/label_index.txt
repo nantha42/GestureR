@@ -1,0 +1,1 @@
+['scale', 'paper', 'classroom', 'title', 'exam', 'principal', 'memorize', 'book', 'picture', 'eraser', 'pass', 'word', 'university', 'education', 'pen', 'college', 'name', 'sentence', 'file', 'fail', 'teacher', 'blackboard', 'student', 'pencil', 'result']
